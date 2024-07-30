@@ -1,0 +1,84 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "contentDetails": "Subscribers will receive updates weekly, filled with industry trends, tips for maintaining work-life balance, and exclusive worklife content.",
+        "description": "Subscribing to the worklife newsletter provides you with essential updates about the industry and valuable insights on how to balance your work and personal life. Receive exclusive content and stay ahead with early access to new products.",
+        "emailLabel": "Your email address",
+        "heading": "What value does subscribing to your newsletter provide?",
+        "incentiveDetails": "Yes, subscribers receive special discounts, access to exclusive content, and early notifications of our latest products.",
+        "incentives": "Are there incentives for signing up, such as discounts, exclusive content, or early access to new products?",
+        "subtitle": "How frequently will subscribers receive updates, and what kind of content can they expect?"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career.",
+        "title": "Elevate Your Professional Journey"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Professional Journey",
+  "subtitle": "Transform your worklife with innovative solutions tailored to enhance productivity and inspire growth in every step of your career."
+}
